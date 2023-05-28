@@ -1,0 +1,12 @@
+easydict
+ruamel-yaml
+wandb
+ipdb
+torch 
+pytorch-lightning
+torchvision==0.13.1
+numpy
+matplotlib
+pandas
+scipy
+timm
