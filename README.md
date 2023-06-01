@@ -1,8 +1,6 @@
-# Noise Transforms Feed-Forward Networks into Sparse Coding Networks
+# Emergence of Sparse Representations from Noise
 
-This is the codebase behind the paper `Noise Transforms Feed-Forward Networks into Sparse Coding Networks`.
-
-We provide code sufficient to reproduce all of our experiments.
+This is the codebase behind the paper `Emergence of Sparse Representations from Noise` and is sufficient to reproduce our core experiments.
 
 Follow these steps: 
 
@@ -19,7 +17,7 @@ pip install --upgrade setuptools
 ## 2. Clone this github repo and install its requirements: 
 
 ```
-git clone https://github.com/anon8371/AnonPaper2.git
+git clone https://github.com/TrentBrick/SparsityFromNoise.git
 cd AnonPaper2
 pip install -r requirements.txt
 ```
